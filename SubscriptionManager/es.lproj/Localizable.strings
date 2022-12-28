@@ -1,0 +1,116 @@
+/* 
+  Localizable.strings
+  SubscriptionManager
+
+  Created by Aitor Zubizarreta Perez on 12/02/2021.
+  Copyright © 2021 Aitor Zubizarreta. All rights reserved.
+*/
+
+// Tabs
+"Subscriptions" = "Subscripciones";
+"Statistics" = "Estadísticas";
+
+// Subscriptions List View
+"emptySubscriptionListTitle" = "Sin subscripciones";
+"emptySubscriptionListMessage" = "Puedes añadir subscripciones pulsando +";
+
+// Subscription Row View
+"today" = "Hoy";
+"tomorrow" = "Mañana";
+"in %d days" = "En %d días";
+"inOneWeek" = "En 1 semana";
+
+// Subscription Detail View
+"price" = "Precio";
+"cycle" = "Ciclo";
+"nextPayment" = "Siguiente pago";
+"total" = "Total";
+"created" = "Creada";
+"editSubscription" = "Editar Subscripción";
+"deleteSubscription" = "Eliminar Subscripción";
+"deleteSubscriptionMessageDescription" = "Esta acción no se puede deshacer. ¿Está seguro?";
+"delete" = "Eliminar";
+
+// New Subscription View
+"name" = "Nombre";
+"category" = "Categoría";
+"color" = "Color";
+"newSubscription" = "Nueva Subscripción";
+"add" = "Añadir";
+"emptyFields" = "Campos vacios";
+"emptyFieldsMessageDescription" = "Los campos nombre y precio son obligatorios, y precio solo admite números. Recuerde también elegir una categoría para la subscripción.";
+
+// Subscription Edit View
+"save" = "Guardar";
+"error" = "Error";
+"pleaseCheck" = "Por favor revisa: ";
+"nameIsEmpty" = "Falta el nombre. ";
+"priceEmptyOrInvalid" = "Falta el precio y/o debe ser numérico. ";
+"paymentDateInvalid" = "La fecha del siguiente pago debe ser posterior a la fecha actual. ";
+"subscriptionEditViewEvery" = "Cada ";
+"subscriptionEditViewDay" = "día";
+"subscriptionEditViewWeek" = "semana";
+"subscriptionEditViewMonth" = "mes";
+"subscriptionEditViewYear" = "año";
+"subscriptionEditViewDays" = "días";
+"subscriptionEditViewWeeks" = "semanas";
+"subscriptionEditViewMonths" = "meses";
+"subscriptionEditViewYears" = "años";
+
+// EditableField View
+"enter the %s" = "Introduce el %s";
+
+// CycleField View
+"cycleFieldEvery" = "Cada ";
+"cycleFieldDay" = "día";
+"cycleFieldDays" = "días";
+"cycleFieldWeek" = "semana";
+"cycleFieldWeeks" = "semanas";
+"cycleFieldMonth" = "mes";
+"cycleFieldMonths" = "meses";
+"cycleFieldYear" = "año";
+"cycleFieldYears" = "años";
+
+// CalendarField View
+"monday" = "Lun";
+"tuesday" = "Mar";
+"wednesday" = "Mie";
+"thursday" = "Jue";
+"friday" = "Vie";
+"saturday" = "Sab";
+"sunday" = "Dom";
+
+// CategoryField View
+"SelectACategory" = "Selecciona una categoría";
+
+// CategoriesView
+"categories" = "Categorías";
+
+// Statistics View
+"statisticsView_subscription" = "Suscripción";
+"statisticsView_subscriptions" = "Suscripciones";
+"nextPayments" = "Siguientes pagos";
+
+// Settings View
+"settingsNavBarTitle" = "Ajustes";
+
+// Settings - Delete Everything
+"settingsDeleteAllTitle" = "Eliminar todo";
+"settingsDeleteAllDescription1" = "Este botón te permite eliminar toda la información creada por esta app y guardada localmente en este dispositivo.";
+"settingsDeleteAllDescription2" = "- Todas las subscripciones";
+"settingsDeleteAllDescription3" = "- Toda la información de pagos";
+"settingsDeleteAllButtonText" = "Eliminar todo";
+"settingsDeleteAllAlertTitle" = "Eliminar todo";
+"settingsDeleteAllAlertMessage" = "Esta acción no se puede deshacer. ¿Está seguro?";
+"settingsDeleteAllPrimaryButton" = "Eliminar";
+
+// Settings - Add Demo Data
+"settingsAddDemoTitle" = "Añadir informacion demo";
+"settingsAddDemoDescription" = "Añade información demo de suscripciones y pagos para ver las capacidades de la App.";
+"settingsAddDemoAlertTitle" = "Añadir informacion demo";
+"settingsAddDemoAlertMessage" = "¿Estas segura que desea añadir informacón demo a la App?";
+"settingsAddDemoAlertPrimaryButton" = "Añade";
+
+// Buttons
+"no" = "No";
+"ok" = "De acuerdo";

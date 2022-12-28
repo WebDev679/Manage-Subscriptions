@@ -1,0 +1,116 @@
+/* 
+  Localizable.strings
+  SubscriptionManager
+
+  Created by Aitor Zubizarreta Perez on 12/02/2021.
+  Copyright © 2021 Aitor Zubizarreta. All rights reserved.
+*/
+
+// Tabs
+"Subscriptions" = "Harpidetzak";
+"Statistics" = "Estatistikak";
+
+// Subscriptions List View
+"emptySubscriptionListTitle" = "Harpidetzarik gabe";
+"emptySubscriptionListMessage" = "Harpidetzak gehi ditzakezu + sakatuz";
+
+// Subscription Row View
+"today" = "Gaur";
+"tomorrow" = "Bihar";
+"in %d days" = "%d egun barru";
+"inOneWeek" = "Aste bat barru";
+
+// Subscription Detail View
+"price" = "Prezioa";
+"cycle" = "Zikloa";
+"nextPayment" = "Hurrengo ordainketa";
+"total" = "Guztira";
+"created" = "Sortuta";
+"editSubscription" = "Harpidetza Editatu";
+"deleteSubscription" = "Harpidetza Ezabatu";
+"deleteSubscriptionMessageDescription" = "Ekintza hau ezin da desegin. Zihur al zaude?";
+"delete" = "Ezabatu";
+
+// New Subscription View
+"name" = "Izena";
+"category" = "Kategoria";
+"color" = "Kolorea";
+"newSubscription" = "Harpidetza Berria";
+"add" = "Gorde";
+"emptyFields" = "Eremu hutsak";
+"emptyFieldsMessageDescription" = "Izena eta Prezio eremuak derrigorrezkoak dira, eta azken hau zenbakiak soilik onartzen ditu. Gogoratu kategoria bat aukeratzen ere.";
+
+// Subscription Edit View
+"save" = "Gorde";
+"error" = "Akatsa";
+"pleaseCheck" = "Mesedez zuzendu: ";
+"nameIsEmpty" = "Izena beharrezkoa da. ";
+"priceEmptyOrInvalid" = "Prezioa beharrezkoa da eta zenbakiak bakarrik onartzen ditu. ";
+"paymentDateInvalid" = "Hurrengo ordainketaren data biharko egunetik aurrera izan behar da. ";
+"subscriptionEditViewEvery" = "";
+"subscriptionEditViewDay" = "Egunero";
+"subscriptionEditViewWeek" = "Astero";
+"subscriptionEditViewMonth" = "Hilabetero";
+"subscriptionEditViewYear" = "Urtero";
+"subscriptionEditViewDays" = "egunero";
+"subscriptionEditViewWeeks" = "astero";
+"subscriptionEditViewMonths" = "hilabetero";
+"subscriptionEditViewYears" = "urtero";
+
+// EditableField View
+"enter the %s" = "Sartu %s";
+
+// CycleField View
+"cycleFieldEvery" = "";
+"cycleFieldDay" = "egunero";
+"cycleFieldDays" = "egunero";
+"cycleFieldWeek" = "astero";
+"cycleFieldWeeks" = "astero";
+"cycleFieldMonth" = "hilabetero";
+"cycleFieldMonths" = "hilabetero";
+"cycleFieldYear" = "urtero";
+"cycleFieldYears" = "urtero";
+
+// CalendarField View
+"monday" = "Al";
+"tuesday" = "As";
+"wednesday" = "Az";
+"thursday" = "Og";
+"friday" = "Or";
+"saturday" = "Lr";
+"sunday" = "Ig";
+
+// CategoryField View
+"SelectACategory" = "Aukeratu kategoria bat";
+
+// CategoriesView
+"categories" = "Kategoriak";
+
+// Statistics View
+"statisticsView_subscription" = "Harpidetza";
+"statisticsView_subscriptions" = "Harpidetza";
+"nextPayments" = "Hurrengo ordainketak";
+
+// Settings View
+"settingsNavBarTitle" = "Ezarpenak";
+
+// Settings - Delete Everything
+"settingsDeleteAllTitle" = "Ezabatu dena";
+"settingsDeleteAllDescription1" = "Aplikaziorekin sortutako, eta mugikorrean gordetako, informazio guztia ezabatzeko aukera ematen dizu botoi hau.";
+"settingsDeleteAllDescription2" = "- Harpidetza guztiak";
+"settingsDeleteAllDescription3" = "- Ordainketa guztien informazioa";
+"settingsDeleteAllButtonText" = "Ezabatu dena";
+"settingsDeleteAllAlertTitle" = "Ezabatu dena";
+"settingsDeleteAllAlertMessage" = "Ekintza hau ezin da desegin. Zihur al zaude?";
+"settingsDeleteAllPrimaryButton" = "Ezabatu";
+
+// Settings - Add Demo Data
+"settingsAddDemoTitle" = "Gehitu Demo Informazioa";
+"settingsAddDemoDescription" = "Harpidetza eta ordainketen informazio-demoa gehitzen ditu aplikazioaren gaitasunak ikusteko.";
+"settingsAddDemoAlertTitle" = "Gehitu Demo Informazioa";
+"settingsAddDemoAlertMessage" = "Zihur al zaude harpidetza eta ordainketen informazio-demoa gehitu nahi duzula?";
+"settingsAddDemoAlertPrimaryButton" = "Gehitu";
+
+// Buttons
+"no" = "Ez";
+"ok" = "Ados";
